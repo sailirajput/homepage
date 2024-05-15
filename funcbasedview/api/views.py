@@ -1,4 +1,4 @@
-
+# this is our views.py file
 from django.shortcuts import render
 from rest_framework.response import Response
 from .models import Student
